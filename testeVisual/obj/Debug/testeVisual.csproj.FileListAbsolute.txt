@@ -18,3 +18,14 @@ C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.csproj.Ge
 C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.csproj.CoreCompileInputs.cache
 C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.exe
 C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.pdb
+C:\Users\aluno\Desktop\test\testeVisual\bin\Debug\testeVisual.exe.config
+C:\Users\aluno\Desktop\test\testeVisual\bin\Debug\testeVisual.exe
+C:\Users\aluno\Desktop\test\testeVisual\bin\Debug\testeVisual.pdb
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.Form1.resources
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.Properties.Resources.resources
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.exe
+C:\Users\aluno\Desktop\test\testeVisual\obj\Debug\testeVisual.pdb
