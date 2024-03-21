@@ -8,3 +8,13 @@ C:\Users\eduardo.stein\Desktop\Git\test\testeVisual\obj\Debug\testeVisual.csproj
 C:\Users\eduardo.stein\Desktop\Git\test\testeVisual\obj\Debug\testeVisual.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.stein\Desktop\Git\test\testeVisual\obj\Debug\testeVisual.exe
 C:\Users\eduardo.stein\Desktop\Git\test\testeVisual\obj\Debug\testeVisual.pdb
+C:\Users\drste\Documents\GitHub\test\testeVisual\bin\Debug\testeVisual.exe.config
+C:\Users\drste\Documents\GitHub\test\testeVisual\bin\Debug\testeVisual.exe
+C:\Users\drste\Documents\GitHub\test\testeVisual\bin\Debug\testeVisual.pdb
+C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.csproj.AssemblyReference.cache
+C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.Form1.resources
+C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.Properties.Resources.resources
+C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.csproj.GenerateResource.cache
+C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.csproj.CoreCompileInputs.cache
+C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.exe
+C:\Users\drste\Documents\GitHub\test\testeVisual\obj\Debug\testeVisual.pdb
