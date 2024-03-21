@@ -19,7 +19,7 @@ namespace testeVisual
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("PINTO GRANDE E FORTE");
+            MessageBox.Show("PINTO GRANDE E FORTE E VEIUDO");
         }
     }
 }
